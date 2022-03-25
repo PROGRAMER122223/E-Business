@@ -9,6 +9,9 @@
     "watch": "nodemon server.js",
     "seed": "node seeds/index.js"
   },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
   "author": "Brad",
   "license": "ISC",
   "dependencies": {
