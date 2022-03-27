@@ -30,7 +30,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia:
 
-[In Insomnia, the user tests “GET tags,” “GET Categories,” and “GET All Products.”.](https://watch.screencastify.com/v/DN0wKcNRJLD92BDUvyId)
+[In Insomnia, the user tests “GET tags,” “GET Categories,” and “GET All Products.”](https://watch.screencastify.com/v/DN0wKcNRJLD92BDUvyId)
 
 The following animation shows the application's GET routes to return a single category, a single product, and a single tag being tested in Insomnia:
 
@@ -167,15 +167,16 @@ After creating the models and routes, run `npm run seed` to seed data to your da
 Create the code needed in `server.js` to sync the Sequelize models to the MySQL database on server start.
 
 
-## Walkthrough video
-
-
-
 ## URL
-Github link to E-Business [https://github.com/PROGRAMER122223/E-Business]
+[Github link to E-Business](https://github.com/PROGRAMER122223/E-Business)
+
 ## Walkthrough video
-1.(getRoute for all)[https://watch.screencastify.com/v/DN0wKcNRJLD92BDUvyId]
-2.(getbyId)[https://watch.screencastify.com/v/HpQcBDjbqVkxUBR0M1xW]
-3.(CRUD on categories)[https://watch.screencastify.com/v/AeL7nIphABnsm42rPoth]
-4.(CRUD on products)[https://watch.screencastify.com/v/S2xr5MVw175sUvHbYxqJ] 
-5.(CRUD on Tags)[https://watch.screencastify.com/v/6vjS9tXzF0I3pnocEfNQ]
+1 . [getRoute for all](https://watch.screencastify.com/v/DN0wKcNRJLD92BDUvyId)
+
+2 . [getById](https://watch.screencastify.com/v/HpQcBDjbqVkxUBR0M1xW)
+
+3 . [CRUD on categories](https://watch.screencastify.com/v/AeL7nIphABnsm42rPoth)
+
+4 . [CRUD on products](https://watch.screencastify.com/v/S2xr5MVw175sUvHbYxqJ)
+
+5 . [CRUD on Tags](https://watch.screencastify.com/v/6vjS9tXzF0I3pnocEfNQ)
